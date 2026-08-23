@@ -1,0 +1,6 @@
+{
+  "name": "node-text-word-total",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/counter.js"
+}
